@@ -9,4 +9,4 @@ Further more it was determined that plays had a very encouraging success rate ha
 ![Play outcomes](https://user-images.githubusercontent.com/99847046/155858705-3f90e632-e3be-4c11-a66b-8e34f7772cff.png)
 
 Other interesting findings that can be potentially useful are the time of year most success campaigns begin 
-![Month campaigns start] (https://user-images.githubusercontent.com/99847046/155858476-4ee446ac-03a8-4305-80b4-7740db110862.png)
+![Month campaigns start](https://user-images.githubusercontent.com/99847046/155858476-4ee446ac-03a8-4305-80b4-7740db110862.png)
