@@ -8,5 +8,7 @@ First it was determined by Category that theater kickstarters are very popular. 
 Further more it was determined that plays had a very encouraging success rate having virtually twice the number of successes than failures.
 ![Play outcomes](https://user-images.githubusercontent.com/99847046/155858705-3f90e632-e3be-4c11-a66b-8e34f7772cff.png)
 
-Other interesting findings that can be potentially useful are the time of year most success campaigns begin 
+Other interesting findings that can be potentially useful are the time of year most successful campaigns begin.
 ![Month campaigns start](https://user-images.githubusercontent.com/99847046/155858476-4ee446ac-03a8-4305-80b4-7740db110862.png)
+
+Louise has chosen a campaign that is in a statistically successful subcategory.  The chances for success are in her favor and I recommend she pay closer attention to the finer details such as setting an appropriate goal, the country she wants to launch the campaign in or the best time of year to launch in order to maximise her success.
