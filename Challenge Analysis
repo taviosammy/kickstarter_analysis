@@ -1,0 +1,15 @@
+#Kickstarting with Excel
+
+## Overview of Project
+
+###Purpose of Analysis
+ This analysis is intented to provide insight for a playwrite on how different kickstarter campaigns performed in relation to their launch dates and their funding goals.
+ Regarding launch dates we sought to find any corelation between the outcome of a campaign(success,failure,canceled) and the time of year it was launched.
+ Similarly we looked to see how campaigns performed based on the amount they were aiming to raise.
+ 
+ ##Analysis and Challenges
+ 
+ ###Analysis of Outcomes based on Launch date
+ It important to first identify the year each campaign launched by using the date created data that was available to us.
+ Once we had that we were able to create a detailed table that could be filtered by year created and the desired category we wanted to highlight.
+ 
