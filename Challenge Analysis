@@ -10,6 +10,39 @@
  ##Analysis and Challenges
  
  ###Analysis of Outcomes based on Launch date
- It important to first identify the year each campaign launched by using the date created data that was available to us.
- Once we had that we were able to create a detailed table that could be filtered by year created and the desired category we wanted to highlight.
+ It was important to first identify the year each campaign launched by using the "date created" data that was available to us.
+ Once we had that we were able to create a detailed table that could be filtered by "year" and the desired category we wanted to highlight.
+ https://user-images.githubusercontent.com/99847046/155933891-a3f0210b-f098-4467-8014-b86e16bdcb2a.PNG
+ 
+ In this case we were highlighting theater campaigns.  This data was then used to create a line chart that displayed the number of outcomes on the y-axis against
+ the month of year on the x-axis 
+ https://user-images.githubusercontent.com/99847046/155933991-d5cd67f2-0bfd-44a2-b371-70a9122fd2c9.png
+ 
+ ###Analysis of Outcomes based on Goals
+ We opted to create ranges for goals to allow our finding to be more presentable.  We then needed to use a countifs formula to specify the criteria of our set ranges
+ , the subcategory of plays and their outcomes.
+ https://user-images.githubusercontent.com/99847046/155934077-076e6157-daf1-430c-b537-9302d3873043.PNG
+ 
+ Once we got those results, we used them to determine the percentage of each type outcome against the sum of outcomes that fell under a paticular range. 
+ We then created a line chart to showcase the outcomes of the campaigns based on the campaign goal set.
+ https://user-images.githubusercontent.com/99847046/155934054-ebc81108-c6a4-4b2c-97d4-c8f3ea94c21f.png
+ 
+ ### Challenges and Difficulties Encountered
+ Pertaining to the "Outcomes based on launch date analysis", the result were very straight forward however there were possiblities for confusion.  Knowing how 
+ to let the table show the months of the year insteading of showing Quarters for example. 
+ There was a little more challenge doing the analysis based on goals as the formula to count the outcomes was very long and had to be precise.  For example by simply leaving
+ an equal sign off the range we were specifying, ('>1000' instead of '>=1000') the resulting line chart would look significantly different and the numbers would simply
+ be incorrect. 
+ 
+ ##Results
+ -What are two conclusions you can draw about the Theater Outcomes by Launch Date?
+ The month of May stands out as the time of year most successful theater campaigns are launched.  However when it comes to failed campaigns, there seems to be no prefered
+ time of year to launch if you planned to be unsuccessful.
+ 
+ -What can you conclude about the Outcomes based on Goals?
+ Campaigns that set lower, more resaonable goals are more likely to suceed while setting too high a goal increases your chances of failure.  There does however seem to be a
+ sweet spot between 35000 and 44900 that has more successful campaigns than failures.
+ 
+ What are some limitations of this dataset?
+ 
  
