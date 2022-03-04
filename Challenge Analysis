@@ -43,8 +43,11 @@
  Campaigns that set lower, more resaonable goals are more likely to suceed, while setting too high a goal increases your chances of failure.  There does however seem to be a
  sweet spot between 35000 and 44900 that has more successful campaigns than failures.
  
- What are some limitations of this dataset?
+ -What are some limitations of this dataset?
  Because this data captures such a wide category of startups, it requires a great deal of organizing to pin point potential avenues to extract and report useful information.
- Another limitation is the 
  
+ 
+ -What are some other possible tables and/or graphs that we could create?
+ A column chart can be useful to evaluate the success of certain categories in different countries.  Also a box and whisker chart created from calculating the standard deviations
+and means of pledges and goals. 
  
